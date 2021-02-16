@@ -65,11 +65,25 @@
 //xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	
 //--------------------       Constants        -------------------------------
 //xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-    include "asm\Constantes.asm"
+    include "asm\snes.asm"
+	include "asm\snes_gfx.asm"
 	include "asm\macro.asm"
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	
+
 //xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	
-
-
+//---------------------  Splash Retroman X  ---------------------------------
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+	//origin $000004 
+	//jml    $37A800
+	//origin $1BA800
+	//include "splash\splash_retroman_x.asm"
+	//rep #$30
+	//ldx #$1eff
+	//jml $008006
+	
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	
+    
 
 
 
@@ -101,8 +115,7 @@
 
 //xxxxxxxxxxxxxxxxxxxxxx    History 1     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 //----------------   Pointers Table History 1   -----------------------------
-	origin $013716
-    include "asm\pointers_history1.asm"
+	include "asm\pointers_history1.asm"
 //-------------------    Script History 1   ---------------------------------
     origin $180001
 	include "scripts_ptbr\history1.asm"
@@ -111,8 +124,7 @@
 
 //xxxxxxxxxxxxxxxxxxxxxx    History 2     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 //----------------   Pointers Table History 2   -----------------------------
-	origin $00013716
-    include "asm\pointers_history2.asm"
+	include "asm\pointers_history2.asm"
 //-------------------    Script History 2   ---------------------------------
 	origin $188001
     include "scripts_ptbr\history2.asm"
@@ -121,16 +133,15 @@
 
 //xxxxxxxxxxxxxxxxxxxxx    History 3     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 //---------------   Pointers Table History 3   ------------------------------
-	//origin $00013716
-    //include "asm\pointers_history3.asm"
+	include "asm\pointers_history3.asm"
 //------------------    Script History 3   ----------------------------------
-	origin $190000
+	origin $190001
     include "scripts_ptbr\history3.asm"
 //xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 //xxxxxxxxxxxxxxxxxxxx    Credits 1     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	
-//---------------   Pointers Table History 3   ------------------------------
+//--------------   Pointers Table Creidits 1   ------------------------------
 	//origin $00013716
     //include "asm\pointers_credits1.asm"
 //-----------------    Script Credits 1    ----------------------------------
@@ -140,7 +151,7 @@
 
 
 //xxxxxxxxxxxxxxxxxxxx    Credits 2     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	
-//---------------   Pointers Table History 3   ------------------------------
+//--------------   Pointers Table Creidits 2   ------------------------------
 	//origin $00013716
     //include "asm\pointers_credits2.asm"
 //-----------------    Script Credits 2    ----------------------------------
@@ -150,11 +161,12 @@
 
 
 
-    
+
 
 
 //xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	
 //----------------------    Graphics     ------------------------------------
+//----------------------    Gráficos     ------------------------------------
 //xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
@@ -333,7 +345,7 @@ desvio_font_cutscenes_end:
 
 	origin $103c00
 include "asm\desvio_font_cutscenes.asm"
-//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 
@@ -353,7 +365,7 @@ grafico_mecanica_end:
 	origin $169C00
 include "asm\desvio_mecanica.asm"
 
-//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-	
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	
 //------------    Tilemap from the Mecanic Island Graphic    -----------------
 //----------------   Tilemap do Gráfico Ilha Mecânica    ---------------------
 
@@ -368,8 +380,56 @@ include "asm\desvio_mecanica.asm"
 //
 //	origin $16A000
 //include "asm\tilemap_mecanica.asm"
-//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-	
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+
+
+
+
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	
+//---------------------    Layout Adjust    ---------------------------------
+//-------------------     Ajuste de layout    -------------------------------
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+//xxxxxxxxxxx    Adjusting NPC Dialog Windows     xxxxxxxxxxxxxxxxxxxxxxxxxxx	
+//----------   Vertical Window Width Adjustment   ---------------------------
+//--------   Ajuste da Largura Vertical da Janela  --------------------------
+	origin $01392F
+	db $08 //--> Original value = $08
+//----------   Horizontal Window Width Adjustment   -------------------------
+//--------   Ajuste da Largura Horizontal da Janela   -----------------------
+	origin $013930
+	db $10 //--> Original value = $0E
+//-------------   Horizontal Window Position   ------------------------------
+//------------   Posição Horizontal da Janela   -----------------------------
+	origin $01392E
+	db $00 //--> Original value = $01
+//--------------   Vertical Window Position   -------------------------------
+//-------------   Posição Vertical da Janela   ------------------------------
+	origin $01392C
+	dw $0300 //--> Original value = $0300
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+//xxxxxxxxxx    Adjusting NPC Dialog Windows 2   xxxxxxxxxxxxxxxxxxxxxxxxxxxx	
+//----------   Vertical Window Width Adjustment   ---------------------------
+//--------   Ajuste da Largura Vertical da Janela  --------------------------
+	origin $013935
+	db $08 //--> Original value = $08
+//----------   Horizontal Window Width Adjustment   -------------------------
+//--------   Ajuste da Largura Horizontal da Janela   -----------------------
+	origin $013936
+	db $10 //--> Original value = $10
+//-------------   Horizontal Window Position   ------------------------------
+//------------   Posição Horizontal da Janela   -----------------------------
+	origin $013934
+	db $10 //--> Original value = $10
+//--------------   Vertical Window Position   -------------------------------
+//-------------   Posição Vertical da Janela   ------------------------------
+	origin $013932
+	dw $0300 //--> Original value = $0300
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 	
 

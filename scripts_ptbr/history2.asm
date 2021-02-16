@@ -1,26 +1,21 @@
- //--------------Máximo de 16 Caracteres por linha------------//
- 
- history2_0000:
+history2_0000:
 
-     gameText("Senhoras eeeeee")
+     gameText(" Ladies aaaand")
   newline()
-     gameText("senhores!")
+     gameText("gentlemen!")
   newpage()
  
-     gameText("Mamaes e Papais!")
+     gameText("Moms and dads!")
   newpage()
  
-     gameText("O show de Sayuri")
+     gameText("Sayuri's show is")
   newline()
-     gameText("acaba de comecar!")
+     gameText("about to begin!")
   newpage()
  
-     gameText("Vamos! Onde estao")
+     gameText("Everybody give")
   newline()
-     gameText("os aplausos do")
-  newspace()
-   
-     gameText("Sayuri?")
+     gameText("it up for Sayuri!")
   newspace()
  endstring()
 
@@ -234,7 +229,7 @@
 
  history2_0019:
  
-     gameText("Essa e a sua casa!")
+     gameText("This is your house!")
  endstring()
 
 
@@ -432,16 +427,14 @@
 
  history2_0031:
  
-     gameText("Ola, (Goemon)!")
+     gameText("Hello, (Goemon))!")
   newpage()
  
-     gameText("Te contaramsobre")
+     gameText("Did you hear about")
   newline()
-     gameText("o fantasma que")
+     gameText("the ghost that's at")
   newline()
-     gameText("esta assombrando")
-  newpage()
-     gameText("o Templo Horohoro?")
+     gameText("Horohoro Temple?")
  endstring()
 
 
@@ -2156,28 +2149,3 @@
   newline()
      gameText("island!")
  endstring()
-
-
- history2_0154:
- 
-     gameText("land!")
- endstring()
-
-
- history2_0155:
- 
-     gameText("er this")
-  newline()
-     gameText("island!")
- endstring()
-
-
- history2_0156:
- 
-     gameText("ng of Ryukyu")
-  newline()
-     gameText("reigns over this")
-  newline()
-     gameText("island!")
- endstring()
- 

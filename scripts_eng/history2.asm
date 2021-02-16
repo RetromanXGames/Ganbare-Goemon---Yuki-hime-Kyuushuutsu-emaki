@@ -1,6 +1,4 @@
- //--------------Máximo de 16 Caracteres por linha------------//
- 
- Historia2_0000:
+history2_0000:
 
      gameText(" Ladies aaaand")
   newline()
@@ -22,7 +20,7 @@
  endstring()
 
 
- Historia2_0001:
+ history2_0001:
  
      gameText("And it looks like")
   newline()
@@ -36,7 +34,7 @@
  endstring()
 
 
- Historia2_0002:
+ history2_0002:
  
      gameText("Hey, (Goemon)!")
   newline()
@@ -47,7 +45,7 @@
  endstring()
 
 
- Historia2_0003:
+ history2_0003:
  
      gameText("Welcome to")
   newline()
@@ -62,7 +60,7 @@
  endstring()
 
 
- Historia2_0004:
+ history2_0004:
  
      gameText("Welcome to the")
   newline()
@@ -74,7 +72,7 @@
  endstring()
 
 
- Historia2_0005:
+ history2_0005:
  
      gameText("Welcome to the")
   newline()
@@ -88,7 +86,7 @@
  endstring()
 
 
- Historia2_0006:
+ history2_0006:
  
      gameText("Welcome!")
   newline()
@@ -102,7 +100,7 @@
  endstring()
 
 
- Historia2_0007:
+ history2_0007:
  
      gameText("Welcome to the")
   newline()
@@ -116,7 +114,7 @@
  endstring()
 
 
- Historia2_0008:
+ history2_0008:
  
      gameText("Welcome to the")
   newline()
@@ -130,7 +128,7 @@
  endstring()
 
 
- Historia2_0009:
+ history2_0009:
  
      gameText("Welcome to the")
   newline()
@@ -144,7 +142,7 @@
  endstring()
 
 
- Historia2_0010:
+ history2_0010:
  
      gameText("Welcome*")
   newline()
@@ -155,7 +153,7 @@
  endstring()
 
 
- Historia2_0011:
+ history2_0011:
  
      gameText("Which room would")
   newline()
@@ -163,7 +161,7 @@
  endstring()
 
 
- Historia2_0012:
+ history2_0012:
  
      gameText("Welcome to the")
   newline()
@@ -179,28 +177,28 @@
  endstring()
 
 
- Historia2_0013:
+ history2_0013:
  
      gameText("You can do it!")
   newspace()
  endstring()
 
 
- Historia2_0014:
+ history2_0014:
  
      gameText("Right this way!")
   newspace()
  endstring()
 
 
- Historia2_0015:
+ history2_0015:
  
      gameText("Please come again!")
   newspace()
  endstring()
 
 
- Historia2_0016:
+ history2_0016:
  
      gameText("This game's for")
   newline()
@@ -209,7 +207,7 @@
  endstring()
 
 
- Historia2_0017:
+ history2_0017:
  
      gameText("Please come again")
   newline()
@@ -218,7 +216,7 @@
  endstring()
 
 
- Historia2_0018:
+ history2_0018:
  
      gameText("Could you lend him")
   newline()
@@ -229,13 +227,13 @@
  endstring()
 
 
- Historia2_0019:
+ history2_0019:
  
      gameText("This is your house!")
  endstring()
 
 
- Historia2_0020:
+ history2_0020:
  
      gameText("Hey there***")
   newline()
@@ -265,7 +263,7 @@
  endstring()
 
 
- Historia2_0021:
+ history2_0021:
  
      gameText("Tch*** Nobody will")
   newline()
@@ -282,7 +280,7 @@
  endstring()
 
 
- Historia2_0022:
+ history2_0022:
  
      gameText("We're not open now*")
   newline()
@@ -292,7 +290,7 @@
  endstring()
 
 
- Historia2_0023:
+ history2_0023:
  
      gameText("I'm so glad that the")
   newline()
@@ -309,7 +307,7 @@
  endstring()
 
 
- Historia2_0024:
+ history2_0024:
  
      gameText("Everybody in town")
   newline()
@@ -322,7 +320,7 @@
  endstring()
 
 
- Historia2_0025:
+ history2_0025:
  
      gameText("I heard Horohoro")
   newline()
@@ -339,7 +337,7 @@
  endstring()
 
 
- Historia2_0026:
+ history2_0026:
  
      gameText("Where did those")
   newline()
@@ -361,7 +359,7 @@
  endstring()
 
 
- Historia2_0027:
+ history2_0027:
  
      gameText("I heard a ghost")
   newline()
@@ -385,7 +383,7 @@
  endstring()
 
 
- Historia2_0028:
+ history2_0028:
  
      gameText("Hey, (Goemon))*")
   newline()
@@ -395,7 +393,7 @@
  endstring()
 
 
- Historia2_0029:
+ history2_0029:
  
      gameText("Hey, (Goemon))!")
   newline()
@@ -410,7 +408,7 @@
  endstring()
 
 
- Historia2_0030:
+ history2_0030:
  
      gameText("The monsters of")
   newline()
@@ -427,7 +425,7 @@
  endstring()
 
 
- Historia2_0031:
+ history2_0031:
  
      gameText("Hello, (Goemon))!")
   newpage()
@@ -440,7 +438,7 @@
  endstring()
 
 
- Historia2_0032:
+ history2_0032:
  
      gameText("Glad you came in!")
   newline()
@@ -457,14 +455,14 @@
  endstring()
 
 
- Historia2_0033:
+ history2_0033:
  
      gameText("Who will it be?")
   newspace()
  endstring()
 
 
- Historia2_0034:
+ history2_0034:
  
      gameText("This is a two-player game*")
   newpage()
@@ -475,7 +473,7 @@
  endstring()
 
 
- Historia2_0035:
+ history2_0035:
  
      gameText("We'll be waiting for your")
   newline()
@@ -483,7 +481,7 @@
  endstring()
 
 
- Historia2_0036:
+ history2_0036:
  
      gameText("Care to train at")
   newline()
@@ -513,7 +511,7 @@
  endstring()
 
 
- Historia2_0037:
+ history2_0037:
  
      gameText("Hey, welcome!")
   newpage()
@@ -529,7 +527,7 @@
  endstring()
 
 
- Historia2_0038:
+ history2_0038:
  
      gameText("No browsing!")
   newline()
@@ -537,7 +535,7 @@
  endstring()
 
 
- Historia2_0039:
+ history2_0039:
  
      gameText("Welcome!")
   newline()
@@ -550,7 +548,7 @@
  endstring()
 
 
- Historia2_0040:
+ history2_0040:
  
      gameText("Could you NOT")
   newline()
@@ -558,7 +556,7 @@
  endstring()
 
 
- Historia2_0041:
+ history2_0041:
  
      gameText("Hello, and welcome!")
   newline()
@@ -569,43 +567,43 @@
  endstring()
 
 
- Historia2_0042:
+ history2_0042:
  
      gameText("Made up your mind?")
  endstring()
 
 
- Historia2_0043:
+ history2_0043:
  
      gameText("Welcome to the Quiz Corner!")
  endstring()
 
 
- Historia2_0044:
+ history2_0044:
  
      gameText("I'm your host, Shimopi*")
  endstring()
 
 
- Historia2_0045:
+ history2_0045:
  
      gameText("It's time for question one!")
  endstring()
 
 
- Historia2_0046:
+ history2_0046:
  
      gameText("Sorry, time's up!")
  endstring()
 
 
- Historia2_0047:
+ history2_0047:
  
      gameText("Next question!")
  endstring()
 
 
- Historia2_0048:
+ history2_0048:
  
      gameText("Congratulations!")
   newline()
@@ -613,7 +611,7 @@
  endstring()
 
 
- Historia2_0049:
+ history2_0049:
  
      gameText("In area 1, what enemy surrounds")
   newline()
@@ -621,7 +619,7 @@
  endstring()
 
 
- Historia2_0050:
+ history2_0050:
  
      gameText("In area 1, what weapon does the")
   newline()
@@ -629,7 +627,7 @@
  endstring()
 
 
- Historia2_0051:
+ history2_0051:
  
      gameText("The area 1 boss' true form is")
   newline()
@@ -637,7 +635,7 @@
  endstring()
 
 
- Historia2_0052:
+ history2_0052:
  
      gameText("In area 1, Kurobe drops how much")
   newline()
@@ -645,7 +643,7 @@
  endstring()
 
 
- Historia2_0053:
+ history2_0053:
  
      gameText("What's the temple's name in")
   newline()
@@ -653,7 +651,7 @@
  endstring()
 
 
- Historia2_0054:
+ history2_0054:
  
      gameText("How many legs does the")
   newline()
@@ -661,7 +659,7 @@
  endstring()
 
 
- Historia2_0055:
+ history2_0055:
  
      gameText("Who got caught by the")
   newline()
@@ -669,7 +667,7 @@
  endstring()
 
 
- Historia2_0056:
+ history2_0056:
  
      gameText("Is the ghost at the temple")
   newline()
@@ -677,7 +675,7 @@
  endstring()
 
 
- Historia2_0057:
+ history2_0057:
  
      gameText("How many feet does area 1's")
   newline()
@@ -685,7 +683,7 @@
  endstring()
 
 
- Historia2_0058:
+ history2_0058:
  
      gameText("How many hands does area 1's")
   newline()
@@ -693,7 +691,7 @@
  endstring()
 
 
- Historia2_0059:
+ history2_0059:
  
      gameText("Area 1's secret character is")
   newline()
@@ -701,7 +699,7 @@
  endstring()
 
 
- Historia2_0060:
+ history2_0060:
  
      gameText("There's a maze")
   newline()
@@ -721,7 +719,7 @@
  endstring()
 
 
- Historia2_0061:
+ history2_0061:
  
      gameText("There are too")
   newline()
@@ -736,7 +734,7 @@
  endstring()
 
 
- Historia2_0062:
+ history2_0062:
  
      gameText("I'm still getting")
   newline()
@@ -744,7 +742,7 @@
  endstring()
 
 
- Historia2_0063:
+ history2_0063:
  
      gameText("Thank you*")
   newline()
@@ -752,7 +750,7 @@
  endstring()
 
 
- Historia2_0064:
+ history2_0064:
  
      gameText("You look strong!")
   newline()
@@ -765,7 +763,7 @@
  endstring()
 
 
- Historia2_0065:
+ history2_0065:
  
      gameText("I don't have any")
   newline()
@@ -782,7 +780,7 @@
  endstring()
 
 
- Historia2_0066:
+ history2_0066:
  
      gameText("Sorry!")
   newline()
@@ -790,13 +788,13 @@
  endstring()
 
 
- Historia2_0067:
+ history2_0067:
  
      gameText("What'll it be?")
  endstring()
 
 
- Historia2_0068:
+ history2_0068:
  
      gameText("That's a shame*")
   newline()
@@ -806,7 +804,7 @@
  endstring()
 
 
- Historia2_0069:
+ history2_0069:
  
      gameText("How did it go?")
   newline()
@@ -826,7 +824,7 @@
  endstring()
 
 
- Historia2_0070:
+ history2_0070:
  
      gameText("Welcome to Oedo")
   newline()
@@ -844,7 +842,7 @@
  endstring()
 
 
- Historia2_0071:
+ history2_0071:
  
      gameText("The whole town")
   newline()
@@ -861,7 +859,7 @@
  endstring()
 
 
- Historia2_0072:
+ history2_0072:
  
      gameText("I'm just setting a")
   newline()
@@ -871,7 +869,7 @@
  endstring()
 
 
- Historia2_0073:
+ history2_0073:
  
      gameText("Oh, what a shame*")
   newline()
@@ -881,7 +879,7 @@
  endstring()
 
 
- Historia2_0074:
+ history2_0074:
  
      gameText("Please choose")
   newline()
@@ -891,7 +889,7 @@
  endstring()
 
 
- Historia2_0075:
+ history2_0075:
  
      gameText("I'm afraid you")
   newline()
@@ -899,7 +897,7 @@
  endstring()
 
 
- Historia2_0076:
+ history2_0076:
  
      gameText("I'm afraid you")
   newline()
@@ -907,7 +905,7 @@
  endstring()
 
 
- Historia2_0077:
+ history2_0077:
  
      gameText("Plan A, yes?")
   newline()
@@ -916,7 +914,7 @@
  endstring()
 
 
- Historia2_0078:
+ history2_0078:
  
      gameText("Plan B, yes?")
   newline()
@@ -927,7 +925,7 @@
  endstring()
 
 
- Historia2_0079:
+ history2_0079:
  
      gameText("Plan C, yes?")
   newline()
@@ -938,7 +936,7 @@
  endstring()
 
 
- Historia2_0080:
+ history2_0080:
  
      gameText("There's no tour")
   newline()
@@ -954,7 +952,7 @@
  endstring()
 
 
- Historia2_0081:
+ history2_0081:
  
      gameText("Gonbei will be your")
   newline()
@@ -970,7 +968,7 @@
  endstring()
 
 
- Historia2_0082:
+ history2_0082:
  
      gameText("Shizuka will be")
   newline()
@@ -984,7 +982,7 @@
  endstring()
 
 
- Historia2_0083:
+ history2_0083:
  
      gameText("Welcome to Shikoku*")
   newline()
@@ -1008,7 +1006,7 @@
  endstring()
 
 
- Historia2_0084:
+ history2_0084:
  
      gameText("Oh, perfect timing!")
   newline()
@@ -1025,7 +1023,7 @@
  endstring()
 
 
- Historia2_0085:
+ history2_0085:
  
      gameText("It's over!")
   newline()
@@ -1067,7 +1065,7 @@
  endstring()
 
 
- Historia2_0086:
+ history2_0086:
  
      gameText("I tell fortunes")
   newline()
@@ -1101,7 +1099,7 @@
  endstring()
 
 
- Historia2_0087:
+ history2_0087:
  
      gameText("Oh hoh! Is that so?")
   newline()
@@ -1122,7 +1120,7 @@
  endstring()
 
 
- Historia2_0088:
+ history2_0088:
  
      gameText("What!? You would")
   newline()
@@ -1135,7 +1133,7 @@
  endstring()
 
 
- Historia2_0089:
+ history2_0089:
  
      gameText("Huh!? Why you***")
   newline()
@@ -1145,7 +1143,7 @@
  endstring()
 
 
- Historia2_0090:
+ history2_0090:
  
      gameText(" ")
   newline()
@@ -1154,28 +1152,28 @@
  endstring()
 
 
- Historia2_0091:
+ history2_0091:
  
      gameText("Ohh!")
   newspace()
  endstring()
 
 
- Historia2_0092:
+ history2_0092:
  
      gameText("Ohhhh!")
   newspace()
  endstring()
 
 
- Historia2_0093:
+ history2_0093:
  
      gameText("Ohhhhhhh!")
   newspace()
  endstring()
 
 
- Historia2_0094:
+ history2_0094:
  
      gameText("How can it be!?")
   newpage()
@@ -1194,7 +1192,7 @@
  endstring()
 
 
- Historia2_0095:
+ history2_0095:
  
      gameText("Your path is truly")
   newline()
@@ -1202,7 +1200,7 @@
  endstring()
 
 
- Historia2_0096:
+ history2_0096:
  
      gameText("Your path is")
   newline()
@@ -1210,7 +1208,7 @@
  endstring()
 
 
- Historia2_0097:
+ history2_0097:
  
      gameText("Your path is")
   newline()
@@ -1218,7 +1216,7 @@
  endstring()
 
 
- Historia2_0098:
+ history2_0098:
  
      gameText("Thank you!")
   newline()
@@ -1226,7 +1224,7 @@
  endstring()
 
 
- Historia2_0099:
+ history2_0099:
  
      gameText("I hope to serve")
   newline()
@@ -1236,7 +1234,7 @@
  endstring()
 
 
- Historia2_0100:
+ history2_0100:
  
      gameText("How does a bath")
   newline()
@@ -1257,7 +1255,7 @@
  endstring()
 
 
- Historia2_0101:
+ history2_0101:
  
      gameText("Have a relaxing")
   newline()
@@ -1266,20 +1264,20 @@
  endstring()
 
 
- Historia2_0102:
+ history2_0102:
  
      gameText("Do come again!")
   newspace()
  endstring()
 
 
- Historia2_0103:
+ history2_0103:
  
      gameText("Which one, then?")
  endstring()
 
 
- Historia2_0104:
+ history2_0104:
  
      gameText("Hello there!")
   newline()
@@ -1299,7 +1297,7 @@
  endstring()
 
 
- Historia2_0105:
+ history2_0105:
  
      gameText("I jotted down your")
   newline()
@@ -1309,7 +1307,7 @@
  endstring()
 
 
- Historia2_0106:
+ history2_0106:
  
      gameText("I am the real lord")
   newline()
@@ -1356,7 +1354,7 @@
  endstring()
 
 
- Historia2_0107:
+ history2_0107:
  
      gameText("I got taken by the")
   newline()
@@ -1371,7 +1369,7 @@
  endstring()
 
 
- Historia2_0108:
+ history2_0108:
  
      gameText("I know nothing!")
   newpage()
@@ -1394,7 +1392,7 @@
  endstring()
 
 
- Historia2_0109:
+ history2_0109:
  
      gameText("Aaaaaah!")
   newline()
@@ -1419,7 +1417,7 @@
  endstring()
 
 
- Historia2_0110:
+ history2_0110:
  
      gameText("I said I wanted")
   newline()
@@ -1436,7 +1434,7 @@
  endstring()
 
 
- Historia2_0111:
+ history2_0111:
  
      gameText("Ohhh, help has")
   newline()
@@ -1444,7 +1442,7 @@
  endstring()
 
 
- Historia2_0112:
+ history2_0112:
  
      gameText("The ground here")
   newline()
@@ -1459,7 +1457,7 @@
  endstring()
 
 
- Historia2_0113:
+ history2_0113:
  
      gameText("Blah blah blaah***")
   newline()
@@ -1467,7 +1465,7 @@
  endstring()
 
 
- Historia2_0114:
+ history2_0114:
  
      gameText("I saw some Hannya")
   newline()
@@ -1482,7 +1480,7 @@
  endstring()
 
 
- Historia2_0115:
+ history2_0115:
  
      gameText("There are statues")
   newline()
@@ -1511,7 +1509,7 @@
  endstring()
 
 
- Historia2_0116:
+ history2_0116:
  
      gameText("Please hurry to")
   newline()
@@ -1521,7 +1519,7 @@
  endstring()
 
 
- Historia2_0117:
+ history2_0117:
  
      gameText("The festival feels")
   newline()
@@ -1545,7 +1543,7 @@
  endstring()
 
 
- Historia2_0118:
+ history2_0118:
  
      gameText("There's some weird")
   newline()
@@ -1560,7 +1558,7 @@
  endstring()
 
 
- Historia2_0119:
+ history2_0119:
  
      gameText("I haven't seen the")
   newline()
@@ -1575,7 +1573,7 @@
  endstring()
 
 
- Historia2_0120:
+ history2_0120:
  
      gameText("The Djinn of Lamps")
   newline()
@@ -1592,7 +1590,7 @@
  endstring()
 
 
- Historia2_0121:
+ history2_0121:
  
      gameText("People in Hyottoko")
   newline()
@@ -1602,7 +1600,7 @@
  endstring()
 
 
- Historia2_0122:
+ history2_0122:
  
      gameText("Ever find a")
   newline()
@@ -1633,7 +1631,7 @@
  endstring()
 
 
- Historia2_0123:
+ history2_0123:
  
      gameText("The Otafuku Gang")
   newline()
@@ -1643,7 +1641,7 @@
  endstring()
 
 
- Historia2_0124:
+ history2_0124:
  
      gameText("Want to join the")
   newline()
@@ -1658,7 +1656,7 @@
  endstring()
 
 
- Historia2_0125:
+ history2_0125:
  
      gameText("Life's been rough")
   newline()
@@ -1673,7 +1671,7 @@
  endstring()
 
 
- Historia2_0126:
+ history2_0126:
  
      gameText("Keep this between")
   newline()
@@ -1693,7 +1691,7 @@
  endstring()
 
 
- Historia2_0127:
+ history2_0127:
  
      gameText("There are lots")
   newline()
@@ -1715,7 +1713,7 @@
  endstring()
 
 
- Historia2_0128:
+ history2_0128:
  
      gameText("Watch out for")
   newline()
@@ -1732,7 +1730,7 @@
  endstring()
 
 
- Historia2_0129:
+ history2_0129:
  
      gameText("The Otafuku Gang")
   newline()
@@ -1747,7 +1745,7 @@
  endstring()
 
 
- Historia2_0130:
+ history2_0130:
  
      gameText("The members of")
   newline()
@@ -1757,7 +1755,7 @@
  endstring()
 
 
- Historia2_0131:
+ history2_0131:
  
      gameText("As if the Otafuku")
   newline()
@@ -1777,7 +1775,7 @@
  endstring()
 
 
- Historia2_0132:
+ history2_0132:
  
      gameText("All the Otafuku")
   newline()
@@ -1787,7 +1785,7 @@
  endstring()
 
 
- Historia2_0133:
+ history2_0133:
  
      gameText("You might hit a")
   newline()
@@ -1811,7 +1809,7 @@
  endstring()
 
 
- Historia2_0134:
+ history2_0134:
  
      gameText("Word is, someone's")
   newline()
@@ -1821,7 +1819,7 @@
  endstring()
 
 
- Historia2_0135:
+ history2_0135:
  
      gameText("The Ninjas' Estate")
   newline()
@@ -1848,7 +1846,7 @@
  endstring()
 
 
- Historia2_0136:
+ history2_0136:
  
      gameText("You've got your")
   newline()
@@ -1865,7 +1863,7 @@
  endstring()
 
 
- Historia2_0137:
+ history2_0137:
  
      gameText("I thought about")
   newline()
@@ -1887,7 +1885,7 @@
  endstring()
 
 
- Historia2_0138:
+ history2_0138:
  
      gameText("If you get past the")
   newline()
@@ -1897,7 +1895,7 @@
  endstring()
 
 
- Historia2_0139:
+ history2_0139:
  
      gameText("You want to")
   newline()
@@ -1921,7 +1919,7 @@
  endstring()
 
 
- Historia2_0140:
+ history2_0140:
  
      gameText("There's a barrier")
   newline()
@@ -1938,7 +1936,7 @@
  endstring()
 
 
- Historia2_0141:
+ history2_0141:
  
      gameText("There's a barrier")
   newline()
@@ -1955,7 +1953,7 @@
  endstring()
 
 
- Historia2_0142:
+ history2_0142:
  
      gameText("You can buy a")
   newline()
@@ -1968,7 +1966,7 @@
  endstring()
 
 
- Historia2_0143:
+ history2_0143:
  
      gameText("Oh! You came")
   newline()
@@ -1983,7 +1981,7 @@
  endstring()
 
 
- Historia2_0144:
+ history2_0144:
  
      gameText("The White Mirror")
   newline()
@@ -2000,7 +1998,7 @@
  endstring()
 
 
- Historia2_0145:
+ history2_0145:
  
      gameText("There's a great")
   newline()
@@ -2015,7 +2013,7 @@
  endstring()
 
 
- Historia2_0146:
+ history2_0146:
  
      gameText("There's a bridge")
   newline()
@@ -2028,7 +2026,7 @@
  endstring()
 
 
- Historia2_0147:
+ history2_0147:
  
      gameText("There are statues")
   newline()
@@ -2057,7 +2055,7 @@
  endstring()
 
 
- Historia2_0148:
+ history2_0148:
  
      gameText("There are statues")
   newline()
@@ -2086,7 +2084,7 @@
  endstring()
 
 
- Historia2_0149:
+ history2_0149:
  
      gameText("Please hurry to")
   newline()
@@ -2096,7 +2094,7 @@
  endstring()
 
 
- Historia2_0150:
+ history2_0150:
  
      gameText("I saw some Hannya")
   newline()
@@ -2111,7 +2109,7 @@
  endstring()
 
 
- Historia2_0151:
+ history2_0151:
  
      gameText("I saw some Hannya")
   newline()
@@ -2126,7 +2124,7 @@
  endstring()
 
 
- Historia2_0152:
+ history2_0152:
  
      gameText("The Hannya Clan's")
   newline()
@@ -2143,7 +2141,7 @@
  endstring()
 
 
- Historia2_0153:
+ history2_0153:
  
      gameText("The King of Ryukyu")
   newline()
@@ -2151,28 +2149,3 @@
   newline()
      gameText("island!")
  endstring()
-
-
- Historia2_0154:
- 
-     gameText("land!")
- endstring()
-
-
- Historia2_0155:
- 
-     gameText("er this")
-  newline()
-     gameText("island!")
- endstring()
-
-
- Historia2_0156:
- 
-     gameText("ng of Ryukyu")
-  newline()
-     gameText("reigns over this")
-  newline()
-     gameText("island!")
- endstring()
- 

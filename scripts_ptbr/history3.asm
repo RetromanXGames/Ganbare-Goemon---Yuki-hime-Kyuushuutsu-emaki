@@ -1,217 +1,215 @@
-  //--------------Máximo de 16 Caracteres por linha------------// 
- 
- Historia3_0000:    
+ history3_0000:    
     
-     gameText(" You're so strong!")
+     gameText("Voce é muito forte!")
   newline()
-     gameText("I'm Kurobe, the ninja")
+     gameText("Eu sou Kurobe, um")
   newline()
-     gameText("cat, meow!")
+     gameText("gato ninja, miau!")
   newpage()
  
-     gameText("I've been waiting to")
+     gameText("Eu estava procurando")
   newline()
-     gameText("meet someone as")
+     gameText("por alguem tão forte")
   newline()
-     gameText("strong as you, meow*")
+     gameText("quanto você, miau*")
   newpage()
  
-     gameText("Oedo is in big trouble,")
+     gameText("Oedo passa por grandes")
   newline()
-     gameText("and we need your")
+     gameText("problemas, e precisamos")
   newline()
-     gameText("help*")
+     gameText("da sua ajuda*")
   newpage()
  
-     gameText("I don't know all of the")
+     gameText("Eu não sei de todos")
   newline()
-     gameText("details, meow***")
+     gameText("os detalhes, miau***")
   newpage()
  
-     gameText("But take this 100 ryo")
+     gameText("Mas pegue esses 100 ryo")
   newline()
-     gameText("and use it to go to")
+     gameText("e use para viajar até")
   newline()
      gameText("Shikoku*")
   newpage()
  
-     gameText("Go there and meet with")
+     gameText("Vá e converse com o meu")
   newline()
-     gameText("my boss, the Coin Cat,")
+     gameText("chefe, o Gato Moeda,")
   newline()
-     gameText("meow*")
+     gameText("miau*")
   newspace()
   endstring()
 
 
- Historia3_0001: 
+ history3_0001: 
  
-     gameText("Gah har har har!")
+     gameText("Rá rá rá rá!")
   newline()
-     gameText("You're a friend of")
+     gameText("Você é amigo do")
   newline()
-     gameText("the Coin Cat, huh?")
+     gameText("Gato Moeda, heim?")
   newpage()
  
-     gameText("Well then, you'll have")
+     gameText("Então, você vai ter")
   newline()
-     gameText("to fight me!")
+     gameText("que lutar comigo!")
+  newspace()
+  endstring()
+
+ history3_0002: 
+ 
+     gameText("Obrigado por me ajudar")
+  newline()
+     gameText("a sair dessa encrenca!")
+  newpage()
+ 
+     gameText("Eu sou o Gato Moeda* miau*")
+  newline()
+     gameText("Eu estava esperando pela")
+  newline()
+     gameText("sua chegada*")
+  newpage()
+ 
+     gameText("Meus gatos ninjas estão")
+  newline()
+     gameText("ocupados com algumas")
+  newline()
+     gameText("missões secretas*")
+  newpage()
+ 
+     gameText("Nós trabalhamos para")
+  newline()
+     gameText("manter a paz em Oedo*")
+  newpage()
+ 
+     gameText("Mas infelizmente a princesa")
+  newline()
+     gameText("Yuki desapareceu*")
+  newpage()
+ 
+     gameText("A única filha do Senhor")
+  newline()
+     gameText("de Oedo foi sequestrada*")
+  newpage()
+ 
+     gameText("Procuramos pistas do seu")
+  newline()
+     gameText("paradeiro em todo o Japão,")
+  newline()
+     gameText("miau*")
+  newpage()
+ 
+     gameText("Nossas investigações nos")
+  newline()
+     gameText("levaram até uma misteriósa")
+  newline()
+     gameText("gangue de máscarados*")
+  newpage()
+ 
+     gameText("Descobrimos também que")
+  newline()
+     gameText("eles estão sequestrando")
+  newline()
+     gameText("muitas pessoas, miau*")
+  newpage()
+ 
+     gameText("A gangue domina algum")
+  newline()
+     gameText("tipo de feitiço estranho*")
+  newpage()
+ 
+     gameText("Esse feitiço permite que")
+  newline()
+     gameText("eles vejam através dos")
+  newline()
+     gameText("nossos disfarces*")
+  newpage()
+ 
+     gameText("Por isso acabei sendo")
+  newline()
+     gameText("pego, miau*")
+  newpage()
+ 
+     gameText("Mas pelo menos consegui")
+  newline()
+     gameText("mais algumas informações,")
+  newline()
+     gameText("miau*")
+  newpage()
+ 
+     gameText("Informações sobre os")
+  newline()
+     gameText("terríveis membros da")
+  newline()
+     gameText("gangue Otafuku*")
+  newpage()
+ 
+     gameText("Ouvi dizer que eles")
+  newline()
+     gameText("estavam mantendo em")
+  newline()
+     gameText("cativeiro uma garota que")
+  newline()
+     gameText("sequestraram em Awaji*")
+  newpage()
+ 
+     gameText("Tenho certeza que é lá")
+  newline()
+     gameText("que você vai encontrar")
+  newline()
+     gameText("a Princesa Yuki*")
+  newpage()
+ 
+     gameText("Por favor, vá em nosso")
+  newline()
+     gameText("nome e resgate a")
+  newline()
+     gameText("Princesa Yuki, miau!")
+  endstring()
+
+
+ history3_0003: 
+ 
+     gameText("Eu sou Yae, uma ninja*")
+  newpage()
+     gameText("Eu investigava um")
+  newline()
+     gameText("anel falsificado***")
+  newpage()
+ 
+     gameText("Quando acabei sendo")
+  newline()
+     gameText("sequestrada pela")
+  newline()
+     gameText("gangue Otafuku***")
+  newpage()
+ 
+     gameText("Parece que você está")
+  newline()
+     gameText("procurando alguma")
+  newline()
+     gameText("coisa também*")
+  newpage()
+ 
+     gameText("Se precisar de alguma")
+  newline()
+     gameText("coisa, procure pelo")
+  newline()
+     gameText("velho sábio em Iga,")
+  newpage()
+     gameText("ele vai te ajudar*")
   newspace()
   endstring()
 
 
- Historia3_0002: 
- 
-     gameText("Thanks for helping me")
-  newline()
-     gameText("out of a tight spot!")
-  newpage()
- 
-     gameText("I'm the Coin Cat, meow*")
-  newline()
-     gameText("I've been waiting for")
-  newline()
-     gameText("you*")
-  newpage()
- 
-     gameText("My ninja cats have")
-  newline()
-     gameText("been undertaking")
-  newline()
-     gameText("secret missions*")
-  newpage()
- 
-     gameText("They work to keep")
-  newline()
-     gameText("the peace in Oedo*")
-  newpage()
- 
-     gameText("The truth is, Princess")
-  newline()
-     gameText("Yuki is gone*")
-  newpage()
- 
-     gameText("The only child of the")
-  newline()
-     gameText("Lord of Oedo has")
-  newline()
-     gameText("been spirited away*")
-  newpage()
- 
-     gameText("We searched all over")
-  newline()
-     gameText("Japan for clues,")
-  newline()
-     gameText("meow*")
-  newpage()
- 
-     gameText("We've uncovered some")
-  newline()
-     gameText("mysterious gangs that")
-  newline()
-     gameText("wear masks*")
-  newpage()
- 
-     gameText("And they've been")
-  newline()
-     gameText("abducting people,")
-  newline()
-     gameText("meow*")
-  newpage()
- 
-     gameText("The gangs are under")
-  newline()
-     gameText("the sway of some")
-  newline()
-     gameText("strange spell*")
-  newpage()
- 
-     gameText("That spell allows them")
-  newline()
-     gameText("to see through our")
-  newline()
-     gameText("transformations*")
-  newpage()
- 
-     gameText("That's why I ended up")
-  newline()
-     gameText("getting caught, meow*")
-  newpage()
- 
-     gameText("But I did manage to")
-  newline()
-     gameText("come across a bit of")
-  newline()
-     gameText("information, meow*")
-  newpage()
- 
-     gameText("It's about the ugly")
-  newline()
-     gameText("members of the")
-  newline()
-     gameText("Otafuku Gang*")
-  newpage()
- 
-     gameText("I hear they were")
-  newline()
-     gameText("keeping a girl they")
-  newline()
-     gameText("abducted in Awaji*")
-  newpage()
- 
-     gameText("I'm sure that's where")
-  newline()
-     gameText("you'll find Princess")
-  newline()
-     gameText("Yuki*")
-  newpage()
- 
-     gameText("Please go there")
-  newline()
-     gameText("on our behalf and")
-  newline()
-     gameText("rescue her, meow!")
-  endstring()
-
-
- Historia3_0003: 
- 
-     gameText("I am Yae, a ninja*")
-  newpage()
- 
-     gameText("I was investigating")
-  newline()
-     gameText("a counterfeiting ring*")
-  newpage()
- 
-     gameText("That's when I ended")
-  newline()
-     gameText("up getting caught by")
-  newline()
-     gameText("the Otafuku Gang***")
-  newpage()
- 
-     gameText("It seems like you're")
-  newline()
-     gameText("here searching for")
-  newline()
-     gameText("something too*")
-  newpage()
- 
-     gameText("You should ask the")
-  newline()
-     gameText("wise old man in Iga,")
-  newline()
-     gameText("if you need help*")
-  newspace()
-  endstring()
-
-
- Historia3_0004: 
+ history3_0004: 
  
      gameText("Oh hoh hoh***")
   newline()
-     gameText("You must be strong!")
+     gameText("Parece que você é")
+  newline()
+     gameText("forte!")
   newpage()
  
      gameText("I'm impressed you")
@@ -289,7 +287,7 @@
   endstring()
 
 
- Historia3_0005: 
+ history3_0005: 
  
      gameText("The White Mirror lies")
   newline()
@@ -305,7 +303,7 @@
   endstring()
 
 
- Historia3_0006: 
+ history3_0006: 
  
      gameText("I already know why")
   newline()
@@ -340,7 +338,7 @@
   endstring()
 
 
- Historia3_0007: 
+ history3_0007: 
  
      gameText("Blah blah blah***")
   newline()
@@ -349,7 +347,7 @@
   endstring()
 
 
- Historia3_0008: 
+ history3_0008: 
  
      gameText("I am the King of")
   newline()
@@ -398,7 +396,7 @@
   endstring()
 
 
- Historia3_0009: 
+ history3_0009: 
  
      gameText("Go check the walls")
   newline()
@@ -422,7 +420,7 @@
   endstring()
 
 
- Historia3_0010: 
+ history3_0010: 
  
      gameText("Oh, my!")
   newline()
@@ -447,7 +445,7 @@
   endstring()
 
 
- Historia3_0011: 
+ history3_0011: 
  
      gameText("The real lord of Oedo")
   newline()
@@ -458,7 +456,7 @@
   endstring()
 
 
- Historia3_0012: 
+ history3_0012: 
  
      gameText("This is horrible!")
   newline()
@@ -490,7 +488,7 @@
   endstring()
 
 
- Historia3_0013: 
+ history3_0013: 
  
      gameText("Guh huh huh***")
   newline()
@@ -500,7 +498,7 @@
   endstring()
 
 
- Historia3_0014: 
+ history3_0014: 
  
      gameText("She's dead if you do!")
   newline()
@@ -510,7 +508,7 @@
   endstring()
 
 
- Historia3_0015: 
+ history3_0015: 
  
      gameText("Yip! Yip, yip! That would")
   newline()
@@ -520,7 +518,7 @@
   endstring()
 
 
- Historia3_0016: 
+ history3_0016: 
  
      gameText("I only lent you power")
   newline()
@@ -530,7 +528,7 @@
   endstring()
 
 
- Historia3_0017: 
+ history3_0017: 
  
      gameText("I'll have nothing to do")
   newline()
@@ -538,7 +536,7 @@
   endstring()
 
 
- Historia3_0018: 
+ history3_0018: 
  
      gameText("No, Gonta! Wait!")
   newline()
@@ -548,13 +546,13 @@
   endstring()
 
 
- Historia3_0019: 
+ history3_0019: 
  
      gameText("I'm just an old man***")
   endstring()
 
 
- Historia3_0020: 
+ history3_0020: 
  
      gameText("Nrrrgh!")
   newline()
@@ -562,7 +560,7 @@
   endstring()
 
 
- Historia3_0021: 
+ history3_0021: 
  
      gameText("She's as good as dead")
   newline()
@@ -572,7 +570,7 @@
   endstring()
 
 
- Historia3_0022: 
+ history3_0022: 
  
      gameText("Urgh***")
   newline()
@@ -582,7 +580,7 @@
   endstring()
 
 
- Historia3_0023: 
+ history3_0023: 
  
      gameText("You're seriously going")
   newline()
@@ -590,7 +588,7 @@
   endstring()
 
 
- Historia3_0024: 
+ history3_0024: 
  
      gameText("Aaaah!")
   newline()

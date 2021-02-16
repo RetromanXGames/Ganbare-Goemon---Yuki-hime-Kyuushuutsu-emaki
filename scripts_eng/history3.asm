@@ -1,6 +1,4 @@
-  //--------------Máximo de 16 Caracteres por linha------------// 
- 
- Historia3_0000:    
+Historia3_0000:    
     
      gameText(" You're so strong!")
   newline()
